@@ -12,7 +12,7 @@ AND REPLACED THE THIS PATH C:\Program Files (x86)\Arduino (BY DEAFULT COMPUTER L
 
 
 
-DISLIKE THE THEAME.. THEN GO BACKUP FOLDER THEN YOU CAN FIND 'lib'  Folder... 
+DISLIKE THE THEAME.. THEN GO Default_Theme_Pack.rar THEN YOU CAN FIND 'lib'  Folder... 
 
 NOW YOU CAN GO [ C:\Program Files (x86)\Arduino ] AND REPLACED AGAIN
 
